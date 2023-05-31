@@ -1,5 +1,8 @@
 # Adicionando um campo de código no Microsoft Word: Um guia prático
 ## Domine a inclusão de campos de código no Word: Um guia passo a passo
+
+> <sup>Você baixar esse documento em PDF <a href="https://github.com/artYYDP/word-code/blob/main/pdf/Adicionando%20um%20campo%20de%20c%C3%B3digo%20no%20Microsoft%20Word%20-%20Um%20guia%20pr%C3%A1tico.pdf">clicando aqui!</a></sup>
+
 No mundo em que vivemos hoje, estamos imersos nas novas tecnologias, o que faz com que o mundo tecnológico nos impacte de maneiras indiretas. Isso é especialmente relevante para profissionais da área de tecnologia, que muitas vezes precisam formatar documentos no Word e enfrentam a falta de recursos que possam auxiliá-los nessa tarefa.
 
 Neste documento, abordaremos uma das maneiras de inserir trechos de código de programação no Word, de forma que não fiquem apenas como texto comum.  
@@ -38,7 +41,7 @@ Neste documento, abordaremos uma das maneiras de inserir trechos de código de p
 
 <img src="https://github.com/artYYDP/word-code/blob/main/img/Word-Code-07.png">
 
-```
+```php
 <?php
  
 // Exemplo de função em PHP para somar dois números
