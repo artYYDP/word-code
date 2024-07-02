@@ -11,6 +11,27 @@ Neste documento, abordaremos uma das maneiras de inserir trechos de código de p
 
 1. Instale um plugin chamado <a href="https://appsource.microsoft.com/pt-BR/product/office/WA104382008?corrid=f650c752-e3fd-88aa-e981-f6344a39628b&src=office&exp=kyyw">**Easy Code Formatter**</a>, que pode ser acessado no próprio site da <a href="https://appsource.microsoft.com/pt-BR/home?exp=kyyw">Microsoft</a>.
 2. Depois de permitir e logar na sua conta da Microsoft, o plugin deverá exibir um documento como padrão. Pode fechá-lo e abrir outro novo ou o documento que deseja colocar o código.
+
+```php
+<?php
+ 
+// Exemplo de função em PHP para somar dois números
+function somar($a, $b) {
+    $resultado = $a + $b;
+    return $resultado;
+}
+ 
+// Variáveis para teste
+$num1 = 5;
+$num2 = 3;
+ 
+// Chamada da função e exibição do resultado
+$soma = somar($num1, $num2);
+echo "A soma de $num1 e $num2 é igual a $soma.";
+ 
+?>
+```
+
 3. Vá até a parte superior do seu documento e selecione a aba **Easy Code Formatter**.
 
 <img src="https://github.com/artYYDP/word-code/blob/main/img/Word-Code-01.png">
@@ -40,26 +61,6 @@ Neste documento, abordaremos uma das maneiras de inserir trechos de código de p
 <img src="https://github.com/artYYDP/word-code/blob/main/img/Word-Code-06.png">
 
 <img src="https://github.com/artYYDP/word-code/blob/main/img/Word-Code-07.png">
-
-```php
-<?php
- 
-// Exemplo de função em PHP para somar dois números
-function somar($a, $b) {
-    $resultado = $a + $b;
-    return $resultado;
-}
- 
-// Variáveis para teste
-$num1 = 5;
-$num2 = 3;
- 
-// Chamada da função e exibição do resultado
-$soma = somar($num1, $num2);
-echo "A soma de $num1 e $num2 é igual a $soma.";
- 
-?>
-```
 
 Pronto! Dessa forma o seu documento ficará muito mais bonito visualmente.
 
